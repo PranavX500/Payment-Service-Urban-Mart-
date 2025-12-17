@@ -2,7 +2,6 @@ package com.example.Payment_Service.Service;
 
 import com.example.Payment_Service.DTO.Emailsendtonot;
 
-
 import com.example.Payment_Service.Model.PaymentSuccessEvent;
 import org.springframework.kafka.core.KafkaTemplate;
 import org.springframework.stereotype.Service;
